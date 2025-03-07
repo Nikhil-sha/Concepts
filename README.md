@@ -11,7 +11,7 @@ That means:
 ✅ You can **view and share** my ideas.  
 ❌ You **cannot modify or commercialize** them.  
 
-Read the full license [here](LICENSE).  
+Read the full license [here](LICENSE.md).  
 
 ## **💬 Why am I sharing this?**  
 As a web developer and a tech enthusiast, I believe that ideas should be documented and explored. This repo is my way of organizing my thoughts while also inspiring discussions.  
